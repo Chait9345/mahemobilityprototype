@@ -1,0 +1,5 @@
+{
+  "version": "v1.0-mini",
+  "dataroot": "C:/Users/chait/Onedrive/Desktop/MOBILITY/backend/data/raw/nuscenes",
+  "verbose": true
+}
